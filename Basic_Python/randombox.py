@@ -10,6 +10,8 @@ canvas.pack()
 
 img_main = PhotoImage(file="images/gift.png")
 
+img
+
 
 
 
