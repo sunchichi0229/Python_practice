@@ -10,7 +10,7 @@ canvas.pack()
 
 img_main = PhotoImage(file="images/gift.png")
 
-image_names = ["Nakta","Tokki"]
+image_names = ["Nakta","Tokki","Gae"]
 
 
 
